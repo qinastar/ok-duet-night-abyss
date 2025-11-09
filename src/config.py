@@ -127,6 +127,7 @@ config = {
         ["src.tasks.AutoExpulsion", "AutoExpulsion"],
         ["src.tasks.Auto65ArtifactTask", "Auto65ArtifactTask"],
         ["src.tasks.Auto70jjbTask", "Auto70jjbTask"],
+        ["src.tasks.ImportTask", "ImportTask"],
         ["src.tasks.AutoDefence", "AutoDefence"],
         ["src.tasks.AutoExploration", "AutoExploration"],
         ["src.tasks.AutoExcavation", "AutoExcavation"],
